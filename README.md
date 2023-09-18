@@ -41,8 +41,8 @@ You can personalize it for your own implementation.
 
 ### Screenshots
 
-<img src="https://github.com/mkiel01/Smart-Pot/blob/main/code/IMG_9008.HEIC" alt="website" />
-<img src="https://github.com/mkiel01/Smart-Pot/blob/main/code/IMG_9046.HEIC" alt="website" />
+<img src="https://github.com/mkiel01/Smart-Pot/blob/main/code/IMG_9008.jpeg" alt="website" />
+<img src="https://github.com/mkiel01/Smart-Pot/blob/main/code/IMG_9046%20copy.jpeg" alt="website" />
 
 
 
