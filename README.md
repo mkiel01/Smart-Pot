@@ -28,9 +28,11 @@ _Below is an example of how you can install and set up your app._
 2. Download appropriate libraries for sensors and import them into Arduino IDE https://support.arduino.cc/hc/en-us/articles/5145457742236-Add-libraries-to-Arduino-IDE
 3. Test the sensors based on the code provided in the corresponding resportiories for example water sensor testing [code](https://github.com/mkiel01/Smart-Pot/blob/main/water_sens/water_sens/water_sens.ino) you will also find pictures of the connections in the repository  
 4. Clone the repo
+   
    ```sh
    git clone https://github.com/your_username_/Project-Name.git
     ```
+   
 5. Connect the parts accordingly to the scheme [electronic connections](https://github.com/mkiel01/Smart-Pot/blob/main/electrical%20connections/electrical%20part%20list%20.pdf)
  and pictures below
 6. Run the code
